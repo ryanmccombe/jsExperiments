@@ -1,0 +1,10 @@
+#stage{
+    width:960px;
+}
+#stage > div{
+    float:left;
+    background-color:red;
+}
+.clear{
+    clear:both;
+}
